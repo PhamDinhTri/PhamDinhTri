@@ -1,49 +1,119 @@
-#EXTM3U x-tvg-url="" x-playlist-name="Ngược Đường Ngược Nắng"
-#EXTINF:-1,Tập 01
+#EXTM3U x-tvg-url="" x-playlist-name="Ngược Đường Ngược Nắng, Bước Chân Vào Đời" x-total-tracks="57"
+
+# ── Ngược Đường Ngược Nắng ────────────────────────────────────────
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 01
 https://s6.kkphimplayer6.com/20260402/gN3oyxWe/index.m3u8
-#EXTINF:-1,Tập 02
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 02
 https://s6.kkphimplayer6.com/20260403/LaZU7En7/index.m3u8
-#EXTINF:-1,Tập 03
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 03
 https://s6.kkphimplayer6.com/20260408/xYvzes8Y/index.m3u8
-#EXTINF:-1,Tập 04
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 04
 https://s6.kkphimplayer6.com/20260408/Ara6VDVV/index.m3u8
-#EXTINF:-1,Tập 05
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 05
 https://s6.kkphimplayer6.com/20260408/tsx1OK1I/index.m3u8
-#EXTINF:-1,Tập 06
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 06
 https://s6.kkphimplayer6.com/20260410/ZzlKXvYv/index.m3u8
-#EXTINF:-1,Tập 07
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 07
 https://s6.kkphimplayer6.com/20260410/uGzJ5oMu/index.m3u8
-#EXTINF:-1,Tập 08
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 08
 https://s6.kkphimplayer6.com/20260414/jCXLTivL/index.m3u8
-#EXTINF:-1,Tập 09
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 09
 https://s6.kkphimplayer6.com/20260414/tFAKgjGw/index.m3u8
-#EXTINF:-1,Tập 10
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 10
 https://s6.kkphimplayer6.com/20260415/90bY4VZa/index.m3u8
-#EXTINF:-1,Tập 11
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 11
 https://v7.kkphimplayer7.com/20260418/weKXFAFg/index.m3u8
-#EXTINF:-1,Tập 12
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 12
 https://v7.kkphimplayer7.com/20260418/z2y8Fr7B/index.m3u8
-#EXTINF:-1,Tập 13
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 13
 https://v7.kkphimplayer7.com/20260418/UzKmevKv/index.m3u8
-#EXTINF:-1,Tập 14
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 14
 https://v7.kkphimplayer7.com/20260422/JeL2TtAu/index.m3u8
-#EXTINF:-1,Tập 15
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 15
 https://v7.kkphimplayer7.com/20260422/LQmSgqzH/index.m3u8
-#EXTINF:-1,Tập 16
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 16
 https://v7.kkphimplayer7.com/20260423/xsH4Bjeu/index.m3u8
-#EXTINF:-1,Tập 17
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 17
 https://v7.kkphimplayer7.com/20260424/CFLNMZGE/index.m3u8
-#EXTINF:-1,Tập 18
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 18
 https://v7.kkphimplayer7.com/20260425/wF8GiRnp/index.m3u8
-#EXTINF:-1,Tập 19
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 19
 https://v7.kkphimplayer7.com/20260428/qnoa3J9k/index.m3u8
-#EXTINF:-1,Tập 20
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 20
 https://v7.kkphimplayer7.com/20260502/PEaVGeHT/index.m3u8
-#EXTINF:-1,Tập 21
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 21
 https://v7.kkphimplayer7.com/20260507/THgUFkTn/index.m3u8
-#EXTINF:-1,Tập 22
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 22
 https://v7.kkphimplayer7.com/20260507/DjxGM4Yt/index.m3u8
-#EXTINF:-1,Tập 23
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 23
 https://v7.kkphimplayer7.com/20260507/1WZsSnYD/index.m3u8
-#EXTINF:-1,Tập 24
+#EXTINF:-1 group-title="Ngược Đường Ngược Nắng",Tap 24
 https://v7.kkphimplayer7.com/20260508/8OV2hGru/index.m3u8
+
+# ── Bước Chân Vào Đời ────────────────────────────────────────
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 01
+https://s6.kkphimplayer6.com/20260226/rvHNky7x/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 02
+https://s6.kkphimplayer6.com/20260226/VDO2zXPW/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 03
+https://s6.kkphimplayer6.com/20260226/m2ksCdBd/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 04
+https://s6.kkphimplayer6.com/20260303/zDhnIsKz/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 05
+https://s6.kkphimplayer6.com/20260305/P4kCE2YN/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 06
+https://s6.kkphimplayer6.com/20260305/Xpbnv4Pu/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 07
+https://s6.kkphimplayer6.com/20260316/j0Y2BWql/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 08
+https://s6.kkphimplayer6.com/20260316/cAY92A6A/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 09
+https://s6.kkphimplayer6.com/20260316/ollRxrIL/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 10
+https://s6.kkphimplayer6.com/20260317/8Zsdlm86/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 11
+https://s6.kkphimplayer6.com/20260318/Sxdh9HYk/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 12
+https://s6.kkphimplayer6.com/20260319/WhP0uD3w/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 13
+https://s6.kkphimplayer6.com/20260326/VhdMQcLM/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 14
+https://s6.kkphimplayer6.com/20260326/RthEaZMd/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 15
+https://s6.kkphimplayer6.com/20260326/195Wl44P/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 16
+https://s6.kkphimplayer6.com/20260331/pblYsopA/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 17
+https://s6.kkphimplayer6.com/20260401/D9jaYByn/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 18
+https://s6.kkphimplayer6.com/20260402/mB3uc6AG/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 19
+https://s6.kkphimplayer6.com/20260408/bYWoU3ur/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 20
+https://s6.kkphimplayer6.com/20260408/9yxM3tg1/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 21
+https://s6.kkphimplayer6.com/20260410/OeOrmLHX/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 22
+https://s6.kkphimplayer6.com/20260414/bGeXeSdN/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 23
+https://s6.kkphimplayer6.com/20260415/yCFmwD6e/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 24
+https://v7.kkphimplayer7.com/20260418/QrYltXsh/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 25
+https://v7.kkphimplayer7.com/20260422/ZKqa1NeD/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 26
+https://v7.kkphimplayer7.com/20260422/Dg6XcOhq/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 27
+https://v7.kkphimplayer7.com/20260423/QsJhOgxr/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 28
+https://v7.kkphimplayer7.com/20260428/rFe0xUee/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 29
+https://v7.kkphimplayer7.com/20260429/t4UgAVsM/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 30
+https://v7.kkphimplayer7.com/20260430/KQZRq1bV/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 31
+https://v7.kkphimplayer7.com/20260507/6cp9bOV0/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 32
+https://v7.kkphimplayer7.com/20260507/2Rjb5N6R/index.m3u8
+#EXTINF:-1 group-title="Bước Chân Vào Đời",Tập 33
+https://v7.kkphimplayer7.com/20260507/g3re2ZW4/index.m3u8
